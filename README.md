@@ -8,3 +8,7 @@ cuando el valor de K es 3 y 4.
 
 Es necesario instalar pip, matplotlib y python,
 para mayores detalles: leer el reporte en pdf adjunto.
+
+Se pueden manipular las encuestas
+hipotéticas a elegir simplemente
+reemplazando v1 a v2, v3 o v4 en el código.
